@@ -2,6 +2,10 @@
 
 This is a collection of projects & pieces that artists are working on where the primary medium is code. 
 
+There are open issues to help improve this repo, if you would like to contribute please check out those issues [here](https://github.com/rachelnicole/art-and-code/issues) or open a pull request to submit more works and/or artists. 
+
+If you are on this list and would like to be removed, please tweet at me [@ohhoe](http://www.twitter.com/ohhoe) and let me know.
+
 ----
 ## JavaScript
 This section features projects & pieces powered by JavaScript.
