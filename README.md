@@ -11,7 +11,7 @@ Jenn Schiffer - [@jennschiffer](http://www.twitter.com/jennschiffer)
 [vart.institute](http://vart.institute/)
 
 George Buckenham - [@v21](http://www.twitter.com/v21)  
-[v21.io/%E2%96%9B%E2%96%9A%E2%96%9E%E2%96%97/](http://v21.io/%E2%96%9B%E2%96%9A%E2%96%9E%E2%96%97/)
+[v21.io/%E2%96%9B%E2%96%9A%E2%96%9E%E2%96%97/](http://v21.io/%E2%96%9B%E2%96%9A%E2%96%9E%E2%96%97/)  
 [cheapbotsdonequick.com](http://www.cheapbotsdonequick)
 
 Amy Wibowo - [@sailorhg](http://www.twitter.com/sailorhg)  
