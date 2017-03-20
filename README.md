@@ -114,3 +114,17 @@ Jaume Sanchez Elias - [@thespite](https://twitter.com/thespite)
 
 Botwiki - [@botwiki](http://www.botwiki.org)  
 [JavaScript bots](https://botwiki.org/tag/bot+javascript/)
+
+Rafaël Rozendaal — [@newrafael](https://twitter.com/newrafael)
+[www.newrafael.com/websites](http://www.newrafael.com/websites)
+
+## Python
+
+Anders Hoff - [@inconvergent](https://twitter.com/inconvergent)
+[inconvergent.net](http://inconvergent.net/)
+
+Mario Klingemann — [@quasimondo](https://twitter.com/quasimondo)
+[mario-klingemann.tumblr.com](http://mario-klingemann.tumblr.com/)
+
+
+
