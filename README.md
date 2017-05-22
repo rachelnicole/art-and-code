@@ -16,7 +16,7 @@ Jenn Schiffer - [@jennschiffer](https://twitter.com/jennschiffer)
 
 George Buckenham - [@v21](https://twitter.com/v21)  
 [v21.io/%E2%96%9B%E2%96%9A%E2%96%9E%E2%96%97/](http://v21.io/%E2%96%9B%E2%96%9A%E2%96%9E%E2%96%97/)  
-[cheapbotsdonequick.com](http://www.cheapbotsdonequick)
+[cheapbotsdonequick.com](http://www.cheapbotsdonequick.com)
 
 Amy Wibowo - [@sailorhg](https://twitter.com/sailorhg)  
 [glitchy](http://sailorhg.com/glitchy/)
