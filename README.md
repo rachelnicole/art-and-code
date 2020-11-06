@@ -112,7 +112,7 @@ Ricardo Cabello - [@mrdoob](https://twitter.com/mrdoob)
 Jaume Sanchez Elias - [@thespite](https://twitter.com/thespite)  
 [clicktorelease.com](http://www.clicktorelease.com)  
 
-Botwiki - [botwiki.org](http://www.botwiki.org)  
+Botwiki - [botwiki.org](https://www.botwiki.org)  
 [JavaScript bots](https://botwiki.org/languages/nodejs/)
 
 Rafaël Rozendaal — [@newrafael](https://twitter.com/newrafael)
